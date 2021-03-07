@@ -1,1 +1,1 @@
-# Datastructure_Alg_Practice
+# Datastructure_Algorithm_Practice
